@@ -1,16 +1,22 @@
-## Hi there 👋
+# Zhiyu Yin
 
-<!--
-**liyingerya/liyingerya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational physicist working at the intersection of numerical simulation,
+scientific machine learning, and AI for science.
 
-Here are some ideas to get you started:
+I hold a Ph.D. in Physics from the University of Maryland and an M.S. in
+Computer Science from Georgia Tech. My research focuses on computational
+plasma physics, large-scale numerical simulation, and high-performance
+scientific computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Differentiable physics and scientific machine learning
+- Numerical PDE solvers and inverse problems
+- Neural operators and learned physical models
+- AI evaluation for scientific reasoning
+
+## Research
+
+- Magnetic reconnection and particle energization
+- MHD–kinetic simulation
+- HPC and large-scale scientific computing
